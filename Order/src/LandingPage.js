@@ -212,8 +212,8 @@ export default function LandingPage() {
         backgroundColor: '#5A3825',
         color: '#F0EAD6',
         marginTop: '20px',
-        marginLeft: '-20px',
-        marginRight: '-20px',
+        marginLeft: '-60px',
+        marginRight: '-50px',
         width: 'calc(100% + 40px)'
       }}>
         <div style={{ marginBottom: '8px', fontSize: '18px', fontWeight: 'bold' }}>
