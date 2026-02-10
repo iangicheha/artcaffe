@@ -80,7 +80,9 @@ export default function LandingPage() {
               borderRadius: '50%',
               objectFit: 'cover',
               backgroundColor: 'white',
-              padding: '10px'
+              padding: '10px',
+              marginLeft: '-95px',
+              marginRight: '-60px'
             }}
           />
         </div>
@@ -90,7 +92,9 @@ export default function LandingPage() {
           margin: '0 0 20px 0', 
           fontSize: '32px', 
           fontWeight: 'bold',
-          color: '#333'
+          color: '#333',
+          marginLeft: '-95px',
+          marginRight: '-60px'
         }}>
           @Artcaffe
         </h1>
@@ -100,7 +104,9 @@ export default function LandingPage() {
           margin: '0 0 24px 0', 
           fontSize: '28px', 
           fontWeight: 'normal',
-          color: '#333'
+          color: '#333',
+          marginLeft: '-95px',
+          marginRight: '-60px'
         }}>
           Restaurant Menu
         </h2>
@@ -120,7 +126,9 @@ export default function LandingPage() {
                 borderRadius: '20px',
                 border: '1px solid #ccc',
                 outline: 'none',
-                textAlign: 'center'
+                textAlign: 'center',
+                marginLeft: '-95px',
+                marginRight: '-60px'
               }}
             />
           </div>
@@ -138,7 +146,9 @@ export default function LandingPage() {
             fontSize: '18px',
             fontWeight: 'bold',
             cursor: 'pointer',
-            transition: 'all 0.3s ease'
+            transition: 'all 0.3s ease',
+            marginLeft: '-95px',
+            marginRight: '-60px'
           }}
           onMouseEnter={(e) => {
             e.target.style.transform = 'translateY(-2px)';
@@ -156,7 +166,9 @@ export default function LandingPage() {
           padding: '20px',
           backgroundColor: 'rgba(0, 0, 0, 0.05)',
           borderRadius: '12px',
-          maxWidth: '400px'
+          maxWidth: '400px',
+          marginLeft: '-95px',
+          marginRight: '-60px'
         }}>
           <p style={{ 
             margin: '0 0 12px 0', 
