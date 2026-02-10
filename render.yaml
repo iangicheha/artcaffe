@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: cloud-api
+    env: node
+    plan: free
+    repo: https://github.com/iangicheha/artcaffe.git
+    branch: master
+    buildCommand: npm install --prefix cloud-api
+    startCommand: npm start --prefix cloud-api
+    envVars: []

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#dc2626" />
+    <meta
+      name="description"
+      content="Artcafe Customer Self-Service Ordering System"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>@artcafe</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script>
+      // Unregister any previously installed service workers and clear caches to avoid stale UI
+      (function() {
+        if ('serviceWorker' in navigator) {
+          const alreadyReloaded = sessionStorage.getItem('sw-cleanup-done');
+          navigator.serviceWorker.getRegistrations()
+            .then(function(registrations) {
+              if (registrations && registrations.length) {
+                return Promise.all(registrations.map(function(r) { return r.unregister(); }));
+              }
+            })
+            .then(function() {
+              if (!alreadyReloaded) {
+                sessionStorage.setItem('sw-cleanup-done', '1');
+                if (window.caches && caches.keys) {
+                  caches.keys().then(function(keys) {
+                    return Promise.all(keys.map(function(k) { return caches.delete(k); }));
+                  }).finally(function() {
+                    window.location.reload();
+                  });
+                } else {
+                  window.location.reload();
+                }
+              }
+            })
+            .catch(function() { /* no-op */ });
+        }
+      })();
+    </script>
+    <div id="root"></div>
+  </body>
+</html>

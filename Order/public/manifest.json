@@ -1,0 +1,22 @@
+{
+  "short_name": "Java Order App",
+  "name": "Java House Order App",
+  "description": "Customer self-service ordering system",
+  "icons": [
+    {
+      "src": "/java-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/java-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#dc2626",
+  "background_color": "#ffffff",
+  "version": "3.0.0"
+}

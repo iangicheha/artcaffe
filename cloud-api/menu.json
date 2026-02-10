@@ -1,0 +1,1685 @@
+[
+  {
+    "id": 1,
+    "name": "Art Spicy Wings",
+    "description": "Chicken wings tossed in mango habanero sauce.",
+    "price": "KSH 1,290",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/spicy-wings.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Spicy Cheesy Garlic Bread",
+    "description": "Irresistibly bold with gooey cheese and a spicy kick. Order now for a flavor-packed appetizer! Baked with garlic butter and spicy cheese.",
+    "price": "KSH 490",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/spicy-cheesy-garlic-bread.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Malasa Chips",
+    "description": "Fries tossed in zesty peri peri sauce.",
+    "price": "KSH 590",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/masala-chips1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hummus Bowl With Caramelised Onions",
+    "description": "Protein packed chickpeas dip served with freshly baked focaccia",
+    "price": "KSH 1,090",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/hummus-bowl-with-caramelised-onions.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hummus Bowl With Beet Ball",
+    "description": "A creamy and nutritious blend of chickpeas packed with protein and flavor. Crispy Falafel Served with freshly baked focaccia.",
+    "price": "KSH 990",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/hummus-bowl-with-Beet-Ball.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hummus Bowl Chicken Shawarma",
+    "description": "Creamy hummus drizzled with olive oil topped with shawarma spiced grilled chicken",
+    "price": "KSH 1,290",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/hummus-bowl-chicken_Shawarma.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Home Fries",
+    "description": "Sautéed potatoes tossed in a chilli, butter & fried onions sauce.",
+    "price": "KSH 590",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/home-fries.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Garlic Bread",
+    "description": "Crispy on the outside, soft and flavorful on the inside, infused with aromatic garlic butter. Order now for a mouthwatering appetizer baked with garlic butter.",
+    "price": "KSH 390",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/garlic-bread.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Butternut & Ginger Soup",
+    "description": "Warm yourself up with our butternut soup infused with aromatic ginger for a flavorful twist on a classic favorite. Served with warm garlic bread on the side for a deliciously comforting meal.",
+    "price": "KSH 590",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/creamy-butternut-soup.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Soup",
+    "description": "A light, flavourful oriental broth with chicken, sweet corn, egg drop, coriander & ginger. Optional chillies add heat, served with garlic bread.",
+    "price": "KSH 690",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/chicken-soup.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Popcorn",
+    "description": "Tender chicken bites, ideal for snacking, offering a delightful burst of flavor in every bite.",
+    "price": "KSH 790",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/chicken-popcorn.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cheesy Garlic Bread",
+    "description": "Crispy on the outside, soft and garlicky on the inside, generously topped with melted cheese. Order now for a delectable appetizer that's sure to please! Baked with garlic butter and cheese",
+    "price": "KSH 490",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/cheesy-garlic-bread.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Beef Samosas 2pcs",
+    "description": "Two lightly spiced beef samosas, served with a lemon wedge.",
+    "price": "KSH 390",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/beef-samosas-2pcs.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Art Chicken Wings (Small)",
+    "description": "Crispy on the outside, tender and juicy on the inside, tossed in your choice of flavorful sauces. Order now for a tantalizing taste sensation!",
+    "price": "KSH 1,290",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/art-wings-small.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Art Chicken Wings (Large)",
+    "description": "Crispy on the outside, tender and juicy on the inside, tossed in your choice of flavorful sauces. Order now for a tantalizing taste sensation!",
+    "price": "KSH 1,990",
+    "category": "FOOD / Starters&Sharing",
+    "available": true,
+    "image": "/images/Menu/FOOD/Starters&Sharing/art-wings-large.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Fried Chicken Sandwich",
+    "description": "Crispy fried chicken tenders with ranch sauce and chilli oil, topped with coleslaw and pickled cucumber, served in fresh ciabatta bread.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/fried-chicken-sandwich.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Fried Chicken Sandwich+S.Caramel Shake",
+    "description": "A hearty sandwich, fries, and salted caramel shake combo set to complete your day with flavour and great savings.",
+    "price": "KSH 1,530",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/fried-chicken-sandwich+salted-caramel-shake.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bbq Chicken In Rustic Ciabatta",
+    "description": "Succulent grilled chicken, tangy BBQ sauce, crisp lettuce, and creamy mayo, all nestled in a warm, crusty ciabatta. Order now for a mouthwatering BBQ treat!",
+    "price": "KSH 1,490",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/bbq-chicken-in-rustic-ciabatta.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Umami Beef With Rice",
+    "description": "Tender braised beef in a rich oriental sauce with white onion, green pepper, and spring onion, fried rice & a spicy Korean cucumber salad on the side",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/umami-beef-with-rice.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Teriyaki Chicken Bowl+Hibiscus Lemonade",
+    "description": "A bowl featuring tender chicken marinated in a sweet-and-savoury teriyaki sauce, served over steamed rice and crisp vegetables. The floral undertone of a hibiscus lemonade brings a refreshing contrast, making it a convenient choice for a quick lunch or laid-back dinner. Suits those seeking a simple, light yet satisfying meal.",
+    "price": "KSH 1,390",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/teriyaki-chicken-bowl+hibiscus-lemonade.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Sweet&Spicy Chicken",
+    "description": "Chicken cooked in sweet chilli sauce served with rice & steamed vegetables",
+    "price": "KSH 1,490",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/sweet&spicy-chicken.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Steak Of The Day",
+    "description": "Enjoy our chef-selected steak, freshly prepared and perfectly grilled each day. Each serving includes a premium cut of beef seasoned with a unique blend of spices, cooked to your preferred doneness, and paired with fresh sides",
+    "price": "KSH 2,590",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/steak-of-the-day.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Slow Cooked Bbq Beef",
+    "description": "A tender, juicy beef cooked low and slow for hours, marinated in a rich barbecue sauce with smoky, savoury and slightly sweet flavours. Perfect for sandwiches, tacos, or paired with sides, it offers a melt-in-your-mouth experience ideal for any barbecue lover.",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/slow-cooked-bbq-beef.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Silk Route Noodles",
+    "description": "Rice noodles tossed with fresh veggies in savoury wok sauce, topped with red bullet, coriander, and spicy nuts.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/silk-route-noodles.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Silk Route Noodles Veg",
+    "description": "Wok-tossed noodles with fresh vegetables, garlic, and ginger in a savory soy-sesame sauce—flavorful, aromatic, and satisfying.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/silk-route-noodles-veg.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Silk Route Chicken Noodles",
+    "description": "Wok-tossed noodles with tender chicken, fresh vegetables, garlic, and ginger in a savory soy-sesame sauce—flavorful, aromatic, and satisfying.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/silk-route-chicken-noodles.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Seasoned Chips",
+    "description": "Crispy on the outside, fluffy on the inside, and perfectly seasoned for a burst of flavor in every bite. Order now for a savory side that complements any meal! Served with our delicious aioli sauce.",
+    "price": "KSH 390",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/seasoned-chips.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Mango Mustard Grilled Fish",
+    "description": "Featuring a perfectly grilled fillet infused with the tangy sweetness of ripe mango and the zesty kick of mustard. This dish offers a delightful balance of flavours, with tender fish complemented by a bold, fruity glaze. Ideal for seafood lovers seeking a unique and refreshing taste!",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/mango-mustard-grilled-fish.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Grilled Salmon",
+    "description": "Salmon fillet seasoned with fresh herbs and olive oil, topped with dill butter, Served with Mediterranean vegetables.",
+    "price": "KSH 2,990",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/grilled-salmon.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Classic Fish&Chips",
+    "description": "Deep fried fish fillet coated in spiced breadcrumbs with coleslaw, tartar sauce served with French fries",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/classic-fish&chips.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Monkey Munch Smoothie (Kids)",
+    "description": "A delicious and nutritious blend made with chia seeds, granola, ripe bananas, and creamy milk and chia .This smoothie offers a perfect , rich texture from the banana and milk.",
+    "price": "KSH 350",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/Monkey-munch-smoothie(kids).jpg"
+  },
+  {
+    "id": 32,
+    "name": "Veg Extravaganza Pizza",
+    "description": "Sweet corn, peppers, onion, bullet chilli, coriander garnish.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/veg-extravaganza-pizza.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Pollo Pizza + Salted Caramel Cake Slice",
+    "description": "Perfectly baked Pollo Pizza with tender chicken and bold bbq sauce, paired with a luxurious slice of salted caramel cake",
+    "price": "KSH 1,690",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/pollo-pizza+salted-caramel-cake-slice.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Margherita Basilico Pizza",
+    "description": "Fresh mozzarella, ripe tomatoes, fragrant basil, and Mozzarella on a thin, crispy crust. Order now for a taste of classic Italian simplicity.",
+    "price": "KSH 1,390",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/Margherita-Basilico-pizza.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Hawaiian Pizza",
+    "description": "Escape to the tropics with our Hawaiian Pizza! Juicy pineapple, bacon and melted mozzarella on pomodoro sauce base. Order now for a sweet and savory delight!",
+    "price": "KSH 1,390",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/hawaiian-pizza.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Diavola Pizza",
+    "description": "Indulge in the rich, bold flavors of Italy with our Salami pizza. Featuring savory salami, tangy pomodoro sauce, creamy mozzarella, briny capers, aromatic oregano, and a kick of chillies, all on a perfectly crispy crust. Order now and experience a true taste of Italy!",
+    "price": "KSH 1,590",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/diavola-pizza.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Cajun Chicken Pizza",
+    "description": "A bold fusion of flavors featuring Cajun-spiced chicken, juicy diced pineapple, and fiery jalapeños, all topped with fresh coriander for a vibrant finish.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/cajun-chicken-pizza.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Beef Sausage Pizza",
+    "description": "Featuring a crispy, hand-tossed crust topped with juicy beef sausages, rich tomato sauce, and melted mozzarella cheese. Each bite delivers a perfect blend of smoky flavours and satisfying textures.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/beef-sausage-pizza.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Iced Tea",
+    "description": "Freshly brewed tea with slight sweetness, served over ice.",
+    "price": "KSH 390",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-tea.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Iced Mocha",
+    "description": "Rich espresso blended with chocolate and milk, served over ice for a smooth, refreshing boost. Cool, creamy, and perfectly balanced.",
+    "price": "KSH 450",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-mocha.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Iced Latte",
+    "description": "Blends smooth espresso with cold milk and ice, creating a perfectly balanced coffee experience.",
+    "price": "KSH 390",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-latte.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Iced Japanese Matcha Latte",
+    "description": "",
+    "price": "KSH 590",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-japanese-matcha-latte.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Iced Cappuccino",
+    "description": "Frothy and refreshing espresso with cold milk, served over ice for a delightful treat.",
+    "price": "KSH 390",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-cappuccino.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Iced American",
+    "description": "Rich espresso flavour, perfectly chilled over ice for a refreshing pick-me-up.",
+    "price": "KSH 390",
+    "category": "DRINKS / Iced Teas & Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Iced Teas & Coffees/iced-american.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Vanilla Tea Cake",
+    "description": "Moist and fragrant, infused with delicate vanilla flavor for a delightful treat. Order now for a perfect accompaniment to your morning or afternoon tea!",
+    "price": "KSH 650",
+    "category": "BAKERY / Tea Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Tea Cakes/vanilla-tea-cake.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Strawberry Crumble Tea Cake",
+    "description": "A delightful blend of sweet strawberries and buttery crumble topping, baked to perfection. Order now for a deliciously fruity treat!",
+    "price": "KSH 650",
+    "category": "BAKERY / Tea Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Tea Cakes/strawberry-crumble-tea-cake.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Chocolate Tea Cake",
+    "description": "Moist and decadent, with layers of rich chocolate flavor. Perfect for a sweet indulgence with your favorite cup of tea. Order now for a delightful treat!",
+    "price": "KSH 650",
+    "category": "BAKERY / Tea Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Tea Cakes/chocolate-tea-cake.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Carrot Tea Cake",
+    "description": "Moist, spiced, and bursting with sweet carrot flavor. Perfect for a cozy treat with your afternoon tea. Order now for a delightful indulgence!",
+    "price": "KSH 650",
+    "category": "BAKERY / Tea Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Tea Cakes/carrot-tea-cake.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Assorted Tea Cakes",
+    "description": "Select any 3 of our house tea cakes at an easy price of 1590/-",
+    "price": "KSH 1,590",
+    "category": "BAKERY / Tea Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Tea Cakes/assorted-tea-cakes.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Savoury Cheese Pastry",
+    "description": "Flaky, buttery pastry filled with a blend of delicious cheeses, baked to perfection. Order now for a delightful savory snack!",
+    "price": "KSH 150",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/savoury-cheese-pastry.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Art Burger + Strawberry Lemonade",
+    "description": "A juicy artisan burger with fresh toppings, paired with a refreshing strawberry lemonade. Bold, tasty, and perfectly balanced.",
+    "price": "KSH 1,900",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/art-burger-plus-strawberry-lemonade.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Art Burger",
+    "description": "Succulent beef patty layered with creamy melted cheese, crispy bacon, fresh lettuce, roasted peppers, and zesty pickled cucumber all nestled between toasted sesame buns. Experience the perfect harmony of flavors and textures in every bite.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/art-burger.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Beet It Burger",
+    "description": "A beetroot burger with Pandemi bread spread with mayo and salsa verde. Layered with lettuce, everyday cheese, sliced onions, and tomatoes served with Fries & Art Chilli",
+    "price": "KSH 1,390",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/beet-it-burger.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Classic Beef Burger + Hibiscus Lemonade",
+    "description": "A lightly seasoned beef patty, lettuce, tomato, and a simple sauce on a toasted bun, paired with hibiscus-infused lemonade. The floral notes balance the burger's savoury flavour, providing a straightforward yet appealing option. It suits quick lunches or relaxed gatherings, maintaining a genuine, down-to-earth feel. Perfect for everyday dining needs.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/classic-beef-burger-plus-hibiscus-lemonade.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Classic Beef Burger",
+    "description": "Enjoy our juicy beef burger, layered with fresh lettuce, ripe tomatoes, crisp onions, and tangy pickles. Topped with creamy mayonnaise and signature rose sauce, it's served with seasoned fries and a side of house slaw for the perfect meal.",
+    "price": "KSH 1,450",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/classic-beef-burger.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Classic Chicken Burger",
+    "description": "Tender, juicy chicken breast, seasoned to perfection and served on a soft bun with crisp lettuce, ripe tomato, and our special sauce. Order now for a delicious twist on a classic favorite!",
+    "price": "KSH 1,450",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/Classic-chicken-burger.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Double Cheese Burger",
+    "description": "Juicy double cheese burger with layers of melted cheese, perfect for a hearty meal.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/Double-cheese-burger.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Texas Burger",
+    "description": "A hearty beef patty topped with crispy bacon, tangy BBQ sauce, melted cheese, and crunchy onion rings, all on a toasted bun. Order now for a taste of bold Texan flavors!",
+    "price": "KSH 1,490",
+    "category": "FOOD / Burgers",
+    "available": true,
+    "image": "/images/Menu/FOOD/Burgers/texas-burger.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Bread Basket",
+    "description": "Freshly baked bread",
+    "price": "KSH 390",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/bread-basket.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Breakfast Croissant",
+    "description": "Wholegrain croissant, two eggs prepared to your liking, crispy bacon, tomatoes, cheese & served with a side of salad.",
+    "price": "KSH 1,090",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/breakfast-croissant.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Eggs & Toast",
+    "description": "Two eggs prepared to your liking Served with toasted bread, butter & homemade jam",
+    "price": "KSH 690",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/eggs-_-toast.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Everyday Breakfast",
+    "description": "Choose your toast, two sausages, two eggs (to your liking), choice of home fries or french fries, served with butter and our fan favourite Art Jam (tree tomato).",
+    "price": "KSH 1,090",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/everyday-breakfast-01.jpg"
+  },
+  {
+    "id": 63,
+    "name": "French Toast",
+    "description": "Thick slices of challah bread, dipped in a rich egg batter and griddled to perfection, served with a drizzle of artisan jam and a side of vibrant fruit salad.",
+    "price": "KSH 890",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/french-toast-01.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Fruit & Nut Granola Bowl",
+    "description": "",
+    "price": "KSH 690",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/fruit-_-nut-granola-bowl.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Mango Granola Bowl",
+    "description": "A refreshing granola bowl with fresh diced mango, mango yogurt, crunchy granola, a drizzle of honey, and a mint garnish.",
+    "price": "KSH 790",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/mango-granola-bowl.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Pancakes",
+    "description": "Fluffy stacks served with a drizzle of maple syrup and a dollop of butter. Order now for a timeless breakfast delight! Served with fresh fruit salad & maple syrup",
+    "price": "KSH 890",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/Pancakes.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Beef Sausages(2pcs)",
+    "description": "Savour our beef sausages made from high-quality beef, expertly seasoned for a rich, satisfying flavor. Perfect for breakfast, grilling, or quick meals, these sausages deliver a hearty taste in every bite.",
+    "price": "KSH 300",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/sausages.jpg"
+  },
+  {
+    "id": 68,
+    "name": "The Nairobian",
+    "description": "Our signature chapati pairs with kachumbari scrambled eggs, two sausages, and tender boiled sweet potato for a breakfast that awakens the Kenyan in you",
+    "price": "KSH 990",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/the-nairobian.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Tropical Fruit Salad",
+    "description": "A vibrant mix of fresh fruits, bursting with tropical flavors. Served with mint & basil. Order now for a refreshing taste of paradise!",
+    "price": "KSH 590",
+    "category": "FOOD / Breakfasts",
+    "available": true,
+    "image": "/images/Menu/FOOD/Breakfasts/tropical-fruit-salad.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Butter Curry Chicken",
+    "description": "Featuring tender pieces of chicken simmered in a velvety tomato-based sauce infused with aromatic spices and a touch of butter. A flavourful dish perfectly balanced, offering a mild yet savoury curry experience.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/butter-curry-chicken.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Chicken Wings & Rosemary Fries",
+    "description": "Crispy chicken wings marinated in an aromatic sauce of your choice, served with a side of fries for a savory and satisfying combo. Order now for a flavorful feast! Served in a sauce of your choice",
+    "price": "KSH 1,590",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/Chicken wings& rosemary fries.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Chicken Schnitzel",
+    "description": "Chicken breast coated with spiced breadcrumbs, served with mashed potatoes & French beans.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/chicken-schnitzel.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Roast Half Chicken",
+    "description": "Straight from the oven served with Mediterranean roasted vegetables",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/roast-half-chicken.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Seasoned Chips & Sausage",
+    "description": "Portion of seasoned chips with two sausages served with our delicious aioli",
+    "price": "KSH 690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/seasoned-chips & sausage.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Sesame Cashew Chicken",
+    "description": "Cashew chicken stir-fry with spring onions and peppers served with fried rice and spicy Korean cucumber salad.",
+    "price": "KSH 1,690",
+    "category": "FOOD / Lunch&Dinner",
+    "available": true,
+    "image": "/images/Menu/FOOD/Lunch&Dinner/sesame-cashew-chicken.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Ais Triumph Grilled Chicken (Kids)",
+    "description": "Tender, perfectly seasoned, and grilled to juicy perfection. A flavorful and protein-packed delight!Grilled chicken served with rice & steamed vegetables",
+    "price": "KSH 800",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/ais-triumph-grilled-chicken(kids).jpg"
+  },
+  {
+    "id": 77,
+    "name": "Babu's Meatball Pasta (Kids)",
+    "description": "Babu's Meatball Pasta features tender, savory meatballs served over perfectly cooked pasta, smothered in a rich, flavorful tomato sauce. Garnished with fresh herbs and Parmesan cheese, this hearty dish delivers a satisfying, Italian-inspired meal that's both comforting and delicious.",
+    "price": "KSH 800",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/babus-meatball-pasta(kids).jpg"
+  },
+  {
+    "id": 78,
+    "name": "Baby Tembos Fruit Salad (Kids)",
+    "description": "Refreshing medley of seasonal fruits, carefully cut into vibrant, bite-sized pieces. Each serving features a balanced mix of sweet and tangy flavors, tossed together for a colorful and nutritious treat. Ideal as a light snack or a healthy addition to any meal!",
+    "price": "KSH 2,590",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/baby-tembos-fruit-salad(kids).jpg"
+  },
+  {
+    "id": 79,
+    "name": "Cheeky Bongalalas Crepe (Kids)",
+    "description": "Delicate, thin crepe with a light and fluffy texture, filled with banana, our art jam. Drizzled with chocolate sauce. It’s a delightful treat perfect for breakfast, dessert, or any time you need a delicious bite!",
+    "price": "KSH 500",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/cheeky-bongalalas-crepe(kids).jpg"
+  },
+  {
+    "id": 80,
+    "name": "Choco Banana Shake (Kids)",
+    "description": "Choco Banana Shake combines ripe bananas and rich chocolate in a creamy, smooth blend. A delightful, indulgent treat that's perfect for any time of day!",
+    "price": "KSH 350",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/choco-banana-shake(kids).jpg"
+  },
+  {
+    "id": 81,
+    "name": "Fresh Juice (Kids)",
+    "description": "A choice of mango or apple juice.",
+    "price": "KSH 250",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/fresh-juice(kids).jpg"
+  },
+  {
+    "id": 82,
+    "name": "Hot Chocolate (Kids)",
+    "description": "Treat your little ones to our Kids Hot Chocolate! Creamy, rich it's the perfect warm and comforting drink for young taste buds. Order now to make their day extra sweet!",
+    "price": "KSH 250",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/Hot-chocolate(kids).jpg"
+  },
+  {
+    "id": 83,
+    "name": " MB's Fried Chicken Fingers (Kids)",
+    "description": "Tender strips of juicy chicken, coated in a crispy, seasoned breading and fried to golden perfection. Perfect as a snack or main, they deliver a satisfying crunch with every bite.",
+    "price": "KSH 900",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/mbs-fried-chicken-fingers(kids).jpg"
+  },
+  {
+    "id": 84,
+    "name": "Moyo's Cinnamon Sugar French Toast Sticks (Kids)",
+    "description": "Crispy on the outside, soft on the inside, these French toast sticks are coated in cinnamon sugar for a sweet, comforting treat. Perfect for breakfast or a quick snack.",
+    "price": "KSH 500",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/moyos-cinnamon-sugar-french-toast-sticks(kids).jpg"
+  },
+  {
+    "id": 85,
+    "name": "Mrs Tam Tam's Savoury Pancakes (Kids)",
+    "description": "Savoury, fluffy herb and cheese pancakes topped with crispy candied bacon. A deliciously savoury twist on a breakfast classic!",
+    "price": "KSH 500",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/mrs-tam-tams-savoury-pancakes(kids).jpg"
+  },
+  {
+    "id": 86,
+    "name": "Peter Pizza's Margherita (Kids)",
+    "description": "Peter Pizza’s signature Margherita is a timeless classic featuring a perfectly baked thin crust topped with a rich, tangy tomato sauce and generous layers of creamy, fresh mozzarella. Accented by the subtle sweetness of ripe tomatoes and a drizzle of olive oil, this pizza is finished with fragrant basil leaves, offering a simple yet irresistible blend of flavors",
+    "price": "KSH 500",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/peter-pizzas-margherita(kids).jpg"
+  },
+  {
+    "id": 87,
+    "name": "Super Sema Breakfast (Kids)",
+    "description": "The Super Sema Breakfast offers an all-in-one morning feast with juicy sausage, a perfectly cooked egg, crispy toast, and a fresh fruit salad. A wholesome and satisfying start to your day!",
+    "price": "KSH 800",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/super-sema-breakfast(kids).jpg"
+  },
+  {
+    "id": 88,
+    "name": "The Supa Avo Toast (Kids)",
+    "description": "Creamy avocado spread on toasted artisan sunflower bread, topped with fresh tomato & basil herbs and a sprinkle of seasoning. A nutritious and flavorful breakfast or snack!",
+    "price": "KSH 400",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/the-supa-avo-toast(kids).jpg"
+  },
+  {
+    "id": 89,
+    "name": "Tobor's Cheese Burger (Kids)",
+    "description": "A juicy beef burger patty, perfectly cooked and topped with melted cheese. This classic combination delivers a rich and savoury flavour, all nestled between a soft, toasted bun. ",
+    "price": "KSH 800",
+    "category": "FOOD / Kids",
+    "available": true,
+    "image": "/images/Menu/FOOD/Kids/tobors-cheese-burger(kids).jpg"
+  },
+  {
+    "id": 90,
+    "name": "Pollo Pizza",
+    "description": "Enjoy our Pollo Pizza! Succulent spiced chicken, vibrant bell peppers, onions, fresh corriander, and melted mozzarella on a savory barbecue sauce base. Order now for a flavorful pizza experience!",
+    "price": "KSH 1,590",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/pollo-pizza.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Cappuccino Cake Slice",
+    "description": "Rich layers of espresso-infused cake, topped with creamy cappuccino frosting and a dusting of cocoa, Order now for a divine coffee inspired treat",
+    "price": "KSH 590",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/cappuccino-cake-slice.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Carrot Cake Slice",
+    "description": "Moist and flavorful, with layers of spiced carrot cake. Order now for a delectable treat that's sure to satisfy!",
+    "price": "KSH 490",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/carrot-cake-slice.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Chocolate Fudge Cake Slice",
+    "description": "A rich, indulgent cake with layers of moist chocolate sponge, generously covered in creamy fudge frosting. Perfectly sweet and intensely chocolaty, this decadent dessert is a must-have for any chocolate lover!",
+    "price": "KSH 550",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/chocolate-fudge-cake-slice.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Dark Forest Cake Slice",
+    "description": "Delightful layers of moist chocolate cake, finished with chocolate shavings. Order now for a taste of pure indulgence.",
+    "price": "KSH 550",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/dark-forest-cake-slice.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Hazelnut Cake Slice",
+    "description": "A deliciously rich hazelnut cake, complemented by sweet apricot jam for a perfect balance of nutty & fruity flavours.",
+    "price": "KSH 550",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/hazelnut-cake-slice.jpg"
+  },
+  {
+    "id": 96,
+    "name": "New York Cheesecake Slice",
+    "description": "Creamy, rich, and irresistibly smooth, with a buttery graham cracker crust. Order now for a decadent taste.",
+    "price": "KSH 590",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/new-york-cheesecake-slice.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Salted Caramel Cake Slice",
+    "description": "Featuring layers of moist cake infused with rich salted caramel, topped with creamy frosting. A fan favorite. Order now for a sweet and satisfying treat!",
+    "price": "KSH 490",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/salted-caramel-cake-slice.jpg"
+  },
+  {
+    "id": 98,
+    "name": "White Chocolate Rose Cake Slice",
+    "description": "Delicate layers of fluffy cake infused with luxurious white chocolate, adorned with subtle hints of rose flavor. Order now for an elegant and indulgent dessert experience!",
+    "price": "KSH 590",
+    "category": "BAKERY / Cake Slices",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Cake Slices/white-chocolate-rose-cake-slice.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Almond Cookies",
+    "description": "Savor our Almond Cookies! Crisp and buttery, with a delicate almond flavor and a hint of sweetness. Order now for a delightful treat that pairs perfectly with your favorite beverage!",
+    "price": "KSH 495",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/almond-cookies.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Almond Croissant",
+    "description": "Sweet almond paste enveloped between buttery layers of pastry and topped with crunchy sliced almonds. Order now for a decadent French treat!",
+    "price": "KSH 350",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/almond-croissant.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Apple Crumble Muffin",
+    "description": "A deliciously moist treat filled with spiced apple pieces and topped with a buttery crumble. Perfectly sweet and aromatic, it's ideal for a cozy snack or breakfast on the go. Enjoy a taste of homemade comfort in every bite!",
+    "price": "KSH 260",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/apple-crumble-muffin.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Assorted Muffins",
+    "description": "Soft, moist muffins come in a selection of classics: Banana Macadamia, Apple Crumble & Vanilla Choco Chip. Something for everyone!",
+    "price": "KSH 590",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/assorted-muffins.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Assorted Pastries Offer",
+    "description": "Choose 4 tasty pastries of your choice for 890/- only!",
+    "price": "KSH 890",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/assorted-pastries-offer.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Big Choco Chip Cookie",
+    "description": "Sink your teeth into our Big Chocolate Chip Cookie! Crispy on the edges, soft in the center, and packed with generous chocolate chips. Order now for a decadent delight!",
+    "price": "KSH 150",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/big-choco-chip-cookie.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Blueberry Muffin",
+    "description": "Bursting with plump, juicy blueberries and a moist, tender crumb. Order now for a deliciously fruity treat!",
+    "price": "KSH 290",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/blueberry-muffin.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Brownie Bites",
+    "description": "Rich, fudgy squares of chocolate goodness, perfect for a sweet treat anytime. Order now for a bite-sized delight!",
+    "price": "KSH 495",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/brownie-bites.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Butter Croissant",
+    "description": "Buttery, flaky layers with a golden crust, perfect for a classic French pastry experience. Order now for a taste of Parisian perfection!",
+    "price": "KSH 290",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/butter-croissant.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Chicken Pie",
+    "description": "Tender chunks of chicken and savory vegetables, enveloped in a flaky pastry crust. Order now for a comforting and satisfying meal!",
+    "price": "KSH 390",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/chicken-pie.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Chocolate Chip Cookies",
+    "description": "Irresistibly chewy, with rich, melty chocolate chips in every bite. Order now for a sweet treat!",
+    "price": "KSH 495",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/chocolate-chip-cookies.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Chocolate Croissant",
+    "description": "Flaky layers of buttery pastry enveloping rich, melty chocolate. Order now for a decadent and satisfying delight!",
+    "price": "KSH 330",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/chocolate-croissant.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Cinnamon  Raisin Roll",
+    "description": "Fluffy pastry filled with a blend of cinnamon, sugar, and plump raisins, perfect for breakfast or a snack.",
+    "price": "KSH 300",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/cinnamon-_-raisin-roll.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Fudge Brownie",
+    "description": "Sweet cravings that are rich, fudgy, and loaded with chocolate goodness. Order now for an irresistible treat!",
+    "price": "KSH 290",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/fudge-brownie.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Granola Cookies",
+    "description": "Indulge in our Granola Cookies! Crunchy and wholesome, packed with oats and nuts for a delightful blend of flavors and textures. Order now for a satisfying and nutritious treat!",
+    "price": "KSH 495",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/granola-cookies.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Multigrain Croissant",
+    "description": "Flaky pastry with a hearty blend of seeds and grains for a nutritious, delicious breakfast treat.",
+    "price": "KSH 330",
+    "category": "BAKERY / Fresh Pastries & Sweets",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Fresh Pastries & Sweets/multigrain-croissant.jpg"
+  },
+  {
+    "id": 115,
+    "name": "American White Sour Bread",
+    "description": "Artisanally crafted with a crispy crust and chewy interior, boasting a delightful sourdough flavor. Order now for a taste of traditional baking excellence!",
+    "price": "KSH 290",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/American-white-sour-bread.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Assorted Bread Bundle",
+    "description": "Assorted Bread Bundle!",
+    "price": "KSH 790",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Assorted-bread-bundle.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Cereal Bread",
+    "description": "A hearty and wholesome loaf, packed with a mix of grains and seeds for a nutritious and delicious bite. Order now for a satisfying start to your day!",
+    "price": "KSH 320",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Cereal-bread.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Farm Bread",
+    "description": "Rustic and hearty, with a crispy crust and soft, chewy interior. Made with wholesome ingredients for a delicious, farm-fresh taste. Order now for a satisfying bite!",
+    "price": "KSH 250",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Farm-bread.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Halla Bread",
+    "description": "Soft, fluffy, and subtly sweet, this artisanal loaf is perfect for any occasion. Order now for a taste of homemade goodness!",
+    "price": "KSH 320",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Halla-bread.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Olive Bread",
+    "description": "Rustic and savory, packed with Mediterrenean tangy olives for a burst of flavor in every bite. Order today and explore this rich flavor.",
+    "price": "KSH 320",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Olive-bread.jpg"
+  },
+  {
+    "id": 121,
+    "name": "White Bread",
+    "description": "Soft, fluffy, and freshly baked, perfect for sandwiches or toasts. Order now for a classic and comforting staple!",
+    "price": "KSH 250",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/White-bread.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Whole Wheat Bread",
+    "description": "Made with wholesome ingredients and baked to perfection, offering a hearty and nutritious option for your breakfast. Order today!",
+    "price": "KSH 290",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/whole-wheat-bread.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Whole Wheat Ceral Bread",
+    "description": "A wholesome blend of whole wheat and crunchy cereal grains, baked to perfection for a nutritious and satisfying bite. Order now for a delicious start to your day!",
+    "price": "KSH 320",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Whole-wheat-ceral-bread.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Whole Wheat Oat Bread",
+    "description": "Nutritious and delicious, with a hearty texture and wholesome flavor. Order now for a healthier choice!",
+    "price": "KSH 320",
+    "category": "BAKERY / Freshly Baked Breads",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Freshly Baked Breads/Whole-wheat-oat-bread.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Whole Cappuccino Cake 2Kg",
+    "description": "Rich layers of espresso-infused cake, topped with creamy cappuccino frosting and a dusting of cocoa. Approximate weight of this cake is 2kg. Available for delivery and pick up.",
+    "price": "KSH 5,900",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-cappuccino-cake-2kg.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Whole Carrot Cake 2Kg",
+    "description": "Moist and flavorful, with layers of spiced carrot cake. Approximate weight of this cake is 2kg. Available for delivery and pick up.",
+    "price": "KSH 4,900",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-carrot-cake-2kg.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Whole Chocolate Fudge Cake 2Kg",
+    "description": "Decadent chocolate fudge cake with rich, moist layers and velvety frosting, perfect for chocolate lovers.",
+    "price": "KSH 5,500",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-chocolate-fudge-cake-2kg.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Whole Dark Forest Cake 2Kg",
+    "description": "Delightful layers of moist chocolate cake, finished with decadent chocolate shavings. Approximate weight of this cake is 2kg. Available for delivery and pick up.",
+    "price": "KSH 5,500",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-dark-forest-cake-2kg.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Whole Hazelnut Cake 2Kg",
+    "description": "A deliciously rich hazelnut cake, complemented by sweet apricot jam for a perfect balance of nutty & fruity flavours.",
+    "price": "KSH 5,500",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-hazelnut-cake-2kg.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Whole Milk&Rose Cake 2Kg",
+    "description": "Delight in a 2kg cake made with whole milk and rose, offering a delicate floral sweetness.",
+    "price": "KSH 5,900",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-milk&rose-cake-2kg.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Whole Salted Caramel Cake 2Kg",
+    "description": "Featuring layers of moist cake infused with rich salted caramel, topped with creamy frosting. An Artcaffe fan favorite. Approximate weight of this cake is 2kg. Available for delivery and pick up.",
+    "price": "KSH 4,900",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-salted-caramel-cake-2kg.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Whole White Chocolate Rose Cake 2Kg",
+    "description": "Delicate layers of fluffy cake infused with luxurious white chocolate, adorned with subtle hints of rose flavor. Approximate weight of this cake is 2kg. Available for delivery and pick up.",
+    "price": "KSH 5,900",
+    "category": "BAKERY / Whole Cakes",
+    "available": true,
+    "image": "/images/Menu/BAKERY/Whole Cakes/whole-white-chocolate-rose-cake-2kg.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Americano",
+    "description": "Rich espresso flavor, perfectly chilled over ice for a refreshing pick-me-up",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/Americano.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Caffe Latte",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/Caffe Latte.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Cappuccino",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/Cappuccino.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Chai Latte",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/chai-latte.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Espresso",
+    "description": "",
+    "price": "KSH 250",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/Espresso.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Filter Coffee Double",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/filter-coffee-double.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Mocha",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Coffees",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Coffees/Mocha.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Classic Lemon & Ginger Tea (Dawa)",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Classic Lemon & Ginger Tea (Dawa).jpg"
+  },
+  {
+    "id": 141,
+    "name": "Earl Grey Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Earl-grey-tea.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Fresh Moroccan Mint Tea",
+    "description": "",
+    "price": "KSH 290",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Fresh Moroccan Mint Tea.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Green Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Green Tea.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Hot Chocolate",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/hot-chocolate.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Iced Orange Turmeric & Ginger Dawa",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Iced Orange Turmeric & Ginger Dawa.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Kenyan Tea",
+    "description": "",
+    "price": "KSH 290",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Kenyan Tea.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Mango Mania Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Mango Mania Tea.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Orange, Ginger & Turmeric Dawa",
+    "description": "",
+    "price": "KSH 350",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Orange, Ginger & Turmeric Dawa.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Persian Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/persian-tea.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Purple Exotic Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Purple Exotic Tea.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Stormy Double Chocolate",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Stormy Double Chocolate.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Zafran Tea",
+    "description": "",
+    "price": "KSH 390",
+    "category": "DRINKS / Hot Teas & Chocolate",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Hot Teas & Chocolate/Zafran Tea.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Blueberry Burst Shake",
+    "description": "A creamy blend of rich vanilla ice cream and vibrant blueberry puree. This is refreshing treat delivers a deliciously sweet and tangy flavor with every sip, perfect for blueberry lovers!",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/blueberry-burst-shake.png"
+  },
+  {
+    "id": 154,
+    "name": "Cappuccino Shake",
+    "description": "A decadent blend of rich fragrant espresso, creamy milk, and velvety smoothness. Order now for a luxurious coffee-inspired treat!",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/cappuccino-shake.png"
+  },
+  {
+    "id": 155,
+    "name": "Chia Cereal Burst Smoothie",
+    "description": "A textured blend of granola, yoghurt, banana, chia seeds and honey. Order one today!",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/chia-cereal-burst-smoothie.png"
+  },
+  {
+    "id": 156,
+    "name": "Choco Chip Cookie Shake",
+    "description": "Creamy vanilla ice cream blended with chunks of chocolate chip cookies. Order now for a sweet and satisfying treat.",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/choco-chip-cookie-shake.png"
+  },
+  {
+    "id": 157,
+    "name": "Classic Shakes",
+    "description": "Rich and creamy choice of Chocolate / Vanilla / Strawberry / Banana or Mango Shake. Made with the finest ingredients for a timeless treat of nostalgia.",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/classic-shakes.png"
+  },
+  {
+    "id": 158,
+    "name": "Green Power Smoothie",
+    "description": "A healthy kick of cucumber, kale, moringa, ginger, lemon juice, pineapple mint juice, avocado and honey. Refreshing and energizing.",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/green-power-smoothie.png"
+  },
+  {
+    "id": 159,
+    "name": "Iron Frost Fusion Smoothie",
+    "description": "A nutritious blend of iron-rich ingredients like beetroot, avocado & spinach, alongside ginger, hibiscus tea and honey. Provides a tasty & energizing way to support your health.",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/iron-frost-fusion-smoothie.png"
+  },
+  {
+    "id": 160,
+    "name": "Mixed Berry Milkshake",
+    "description": "",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/mixed-berry-milkshake.png"
+  },
+  {
+    "id": 161,
+    "name": "Rasberry Milkshake",
+    "description": "",
+    "price": "KSH 550",
+    "category": "DRINKS / Milkshakes & Smoothies",
+    "available": true,
+    "image": "/images/Menu/DRINKS/Milkshakes & Smoothies/Rasberry-milkshake.png"
+  },
+  {
+    "id": 162,
+    "name": "Art Burger",
+    "description": "Succulent beef patty layered with creamy melted cheese, crispy bacon, fresh lettuce, roasted peppers, and zesty pickled cucumber all nestled between toasted sesame buns. Experience the perfect harmony of flavors and textures in every bite.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Art Italian-Style Pizzas",
+    "available": true,
+    "image": "/images/Menu/FOOD/Art Italian-Style Pizzas/Art-Burger.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Asian Beef Stir Fry",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/asian-beef-stir-fry.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Chicken Caesar Salad",
+    "description": "Tender grilled chicken served atop crisp lettuce, accompanied by savory ciabatta croutons and drizzled with creamy Caesar dressing. Topped with shaved Parmesan cheese and zesty capers for an added burst of flavour.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/chicken-caesar-salad.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Green Harvest Bowl+Salted Caramel",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/green-harvest-bowl+salted-caramel.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Green Harvest Bowl",
+    "description": "A vibrant and nutritious meal featuring tender grilled chicken paired with fresh spinach. Complemented by honey mustard-dressed vegetables, creamy beetroot hummus, and rich guacamole. Served alongside fragrant lemon herb rice and soft, artisanal focaccia. Topped with zesty pickled onions and a crunchy super seed salad topper for a perfect balance of flavors and textures.",
+    "price": "KSH 1,390",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/green-harvest-bowl.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Grilled Halloumi Salad",
+    "description": "Tender grilled halloumi cheese paired with roasted vegetables, crisp lettuce, and kale, all tossed in a flavorful honey mustard dressing. Topped with crunchy salad topper and served with a side of garlic bread.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/grilled-halloumi-salad.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Heart Beet Bowl",
+    "description": "A flavourful bowl with beetroot sesame balls in hoisin-teriyaki sauce, Korean salad, crispy seasoned kale, and fried rice, garnished with sesame seeds, fresh coriander & chillies.",
+    "price": "KSH 1,390",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/heart-beet-bowl.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Kyoto Meat Bowl",
+    "description": "A hearty bowl with teriyaki meatballs, Korean cucumber salad, fried rice, crispy kale, and garnished with sesame & spicy.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/kyoto-meat-bowl.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Prawns Caesar Salad",
+    "description": "Crisp romaine lettuce tossed with garlic croutons, Parmesan cheese, and our signature Caesar dressing. Topped with succulent prawns, this flavorful and satisfying twist on the classic salad is perfect for seafood lovers.",
+    "price": "KSH 1,590",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/Prawns-Caesar-Salad.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Samurai Salad With Chicken",
+    "description": "A vibrant Asian salad with stir-fried chicken, fresh veggies, mango, herbs, Thai dressing & spicy nuts",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/samurai-salad- with -chicken.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Santorini Salad",
+    "description": "A well-composed salad featuring grilled chicken, candied bacon, fresh vegetables, pickled onions, boiled egg, and feta cheese, dressed in garlic ranch. Served with warm garlic bread.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/santorini-salad.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Teriyaki Chicken Bowl",
+    "description": "Tender teriyaki chicken served with fragrant fried rice, accompanied by a vibrant red cabbage cucumber salad, tangy pickled carrots and radish, & guacamole.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/teriyaki-chicken-bowl.jpg"
+  },
+  {
+    "id": 174,
+    "name": "The Mexican Salad",
+    "description": "A vibrant fiesta of flavors awaits with crisp lettuce, fresh red peppers, sweet corn, juicy tomatoes, creamy avocado, fried cauliflower, and gouda cheese, all tossed in a zesty lime-cilantro dressing and topped with a bold salsa. Enjoy a satisfying taste of Mexico in every bite with your choice of a Vegetable or Chicken Mexican Salad.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/the-mexican-salad.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Vegetarian Caesar Salad",
+    "description": "Crisp romaine lettuce tossed with garlic croutons, Parmesan cheese, and our signature Caesar dressing. A flavorful and satisfying twist on the classic salad, perfect for veggie lovers.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/Vegetarian-Caesar-Salad.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Vegetarian Samurai Salad",
+    "description": "A vibrant Asian salad, fresh veggies, mango, herbs, Thai dressing & spicy nuts",
+    "price": "KSH 1,390",
+    "category": "FOOD / Bowls&Salads",
+    "available": true,
+    "image": "/images/Menu/FOOD/Bowls&Salads/Vegetarian-samurai-salad.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Ais Triumph Grilled Chicken (Kids)",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/ais-triumph-grilled-chicken(kids).jpg"
+  },
+  {
+    "id": 178,
+    "name": "Art Pesto Chicken",
+    "description": "Succulent grilled chicken breast smothered in aromatic basil creamy pesto sauce. Order now for a flavorful masterpiece!",
+    "price": "KSH 1,590",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/Art-Pesto-chicken.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Art Pesto Veg",
+    "description": "Indulge in our Art Pesto Veg! Fresh vegetables tossed in aromatic creamy pesto sauce and parmesan. Order now for a flavorful and satisfying vegetarian option!",
+    "price": "KSH 1,390",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/art-pesto-veg.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Lasagne Bolognese",
+    "description": "Rich beef ragu in between layers of pasta, topped with bechamel sauce & mozzarella cheese.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/lasagne-bolognese.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Penne Arrabiata",
+    "description": "A zesty pasta dish featuring al dente penne tossed in a fiery tomato sauce infused with garlic, chilli flakes, eggplant, and fresh herbs. A tantalizing blend of heat and flavor to delight your taste buds.",
+    "price": "KSH 1,390",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/penne-arrabiata.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Prawns In Pink Sauce",
+    "description": "Tasty prawns tossed with al dente tagliatelle pasta in a savory garlic butter sauce, topped with fresh herbs. Order now for a delightful seafood pasta experience!",
+    "price": "KSH 1,990",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/prawns-in-pink-sauce.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Spaghetti Meatballs+Carrot Cake Slice",
+    "description": "Treat yourself to our chef's spaghetti and meatballs entrée with a complimentary slice of carrot cake.",
+    "price": "KSH 1,490",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/spaghetti-meatballs+carrot-cake-slice.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Supa Penne Chicken Broccoli(Kid)",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Pasta",
+    "available": true,
+    "image": "/images/Menu/FOOD/Pasta/supa-penne-chicken-broccoli(kid).jpg"
+  },
+  {
+    "id": 185,
+    "name": "Beef Steak In Rustic Ciabatta Sandwich",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/beef-steak-in-rustic-ciabatta-sandwich.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Creole Chicken  Avocado",
+    "description": "",
+    "price": "KSH 0",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/creole-chicken-_-avocado.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Pesto Caprese Melt Sandwich",
+    "description": "Savour the layers of fresh mozzarella, ripe tomatoes, and vibrant basil pesto, all grilled to perfection on artisanal bread. Accompanied by a refreshing garden salad and a crispy side of chips, this meal is a perfect blend of flavours and textures.",
+    "price": "KSH 1,290",
+    "category": "FOOD / Sandwiches",
+    "available": true,
+    "image": "/images/Menu/FOOD/Sandwiches/pesto-caprese-melt-sandwich.jpg"
+  }
+]
