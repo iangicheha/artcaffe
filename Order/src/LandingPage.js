@@ -42,8 +42,10 @@ export default function LandingPage() {
       right: 0,
       bottom: 0,
       width: '100%',
+      maxWidth: '100vw',
       maxHeight: '100dvh',
-      overflow: 'hidden',
+      overflowX: 'hidden',
+      overflowY: showNameInput ? 'auto' : 'hidden',
       backgroundColor: '#F0EAD6',
       display: 'flex',
       flexDirection: 'column',
@@ -53,12 +55,17 @@ export default function LandingPage() {
     }}>
       {/* Main Content - Centered */}
       <div style={{ 
-        flex: 1,
+        flex: showNameInput ? 'none' : 1,
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'center',
+        justifyContent: showNameInput ? 'flex-start' : 'center',
         alignItems: 'center',
-        textAlign: 'center'
+        alignSelf: 'center',
+        width: '100%',
+        maxWidth: '100%',
+        minWidth: 0,
+        textAlign: 'center',
+        paddingTop: showNameInput ? '10px' : 0
       }}>
         {/* Hotel Logo */}
         <div style={{
@@ -196,12 +203,18 @@ export default function LandingPage() {
 
       {/* Contact Information Footer */}
       <div style={{ 
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
         textAlign: 'center',
         padding: '20px',
         backgroundColor: '#5A3825',
         color: '#F0EAD6',
-        borderRadius: '12px',
-        marginTop: '20px'
+        marginTop: '20px',
+        marginLeft: '-20px',
+        marginRight: '-20px',
+        width: 'calc(100% + 40px)'
       }}>
         <div style={{ marginBottom: '8px', fontSize: '18px', fontWeight: 'bold' }}>
           Contact Us

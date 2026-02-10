@@ -210,11 +210,13 @@ export default function OrderQR() {
     return (
       <div style={{ 
         maxWidth: '100%', 
+        width: '100%',
         margin: '0 auto', 
         fontFamily: 'Arial, sans-serif', 
         backgroundColor: '#F0EAD6', 
         minHeight: '100vh',
-        padding: '0'
+        padding: '0',
+        overflowX: 'hidden'
       }}>
         {/* Header */}
         <div style={{ 
@@ -356,11 +358,13 @@ export default function OrderQR() {
   return (
     <div style={{ 
       maxWidth: '100%', 
+      width: '100%',
       margin: '0 auto', 
       fontFamily: 'Arial, sans-serif', 
       backgroundColor: '#F0EAD6', 
       minHeight: '100vh',
-      padding: '0'
+      padding: '0',
+      overflowX: 'hidden'
     }}>
       {/* Header with Logo and Title */}
       <div style={{ 
