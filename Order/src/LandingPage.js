@@ -1,25 +1,49 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 export default function LandingPage() {
   const navigate = useNavigate();
   const [customerName, setCustomerName] = useState('');
+  const [showNameInput, setShowNameInput] = useState(false);
+
+  // Lock body scroll on mobile when landing page is shown
+  useEffect(() => {
+    const prevOverflow = document.body.style.overflow;
+    const prevPosition = document.body.style.position;
+    const prevTouchAction = document.documentElement.style.touchAction;
+    document.body.style.overflow = 'hidden';
+    document.body.style.position = 'fixed';
+    document.documentElement.style.touchAction = 'none';
+    return () => {
+      document.body.style.overflow = prevOverflow;
+      document.body.style.position = prevPosition;
+      document.documentElement.style.touchAction = prevTouchAction;
+    };
+  }, []);
 
   const handleStartOrdering = () => {
+    if (!showNameInput) {
+      setShowNameInput(true);
+      return;
+    }
     const trimmedName = customerName.trim();
     if (!trimmedName) {
-      // Simple box message if name is missing
       alert('Please enter your name');
       return;
     }
-    // Include the name in the URL so the order page can use it
     navigate(`/order/table/1?name=${encodeURIComponent(trimmedName)}`);
   };
 
   return (
     <div style={{ 
-      height: '100vh',           // lock to viewport height
-      overflow: 'hidden',        // prevent scrolling (especially on mobile)
+      position: 'fixed',
+      top: 0,
+      left: 0,
+      right: 0,
+      bottom: 0,
+      width: '100%',
+      maxHeight: '100dvh',
+      overflow: 'hidden',
       backgroundColor: '#F0EAD6',
       display: 'flex',
       flexDirection: 'column',
@@ -74,24 +98,26 @@ export default function LandingPage() {
           Restaurant Menu
         </h2>
 
-        {/* Customer name input (required before entering menu) */}
-        <div style={{ marginBottom: '24px', width: '100%', maxWidth: '320px' }}>
-          <input
-            type="text"
-            placeholder="Please enter your name"
-            value={customerName}
-            onChange={(e) => setCustomerName(e.target.value)}
-            style={{
-              padding: '12px 16px',
-              width: '100%',
-              fontSize: '16px',
-              borderRadius: '25px',
-              border: '1px solid #ccc',
-              outline: 'none',
-              textAlign: 'center'
-            }}
-          />
-        </div>
+        {/* Customer name input - shown only after clicking Start Ordering */}
+        {showNameInput && (
+          <div style={{ marginBottom: '20px', width: '100%', maxWidth: '220px' }}>
+            <input
+              type="text"
+              placeholder="Enter your name"
+              value={customerName}
+              onChange={(e) => setCustomerName(e.target.value)}
+              style={{
+                padding: '8px 12px',
+                width: '100%',
+                fontSize: '14px',
+                borderRadius: '20px',
+                border: '1px solid #ccc',
+                outline: 'none',
+                textAlign: 'center'
+              }}
+            />
+          </div>
+        )}
 
         {/* Start Ordering Button */}
         <button
@@ -114,7 +140,7 @@ export default function LandingPage() {
             e.target.style.transform = 'translateY(0)';
           }}
         >
-          {customerName.trim() ? 'Continue to Menu' : 'Start Ordering'}
+          {showNameInput ? 'Continue to Menu' : 'Start Ordering'}
         </button>
 
         {/* Instructions */}
@@ -172,7 +198,7 @@ export default function LandingPage() {
       <div style={{ 
         textAlign: 'center',
         padding: '20px',
-        backgroundColor: '#333',
+        backgroundColor: '#5A3825',
         color: '#F0EAD6',
         borderRadius: '12px',
         marginTop: '20px'
